@@ -1,0 +1,2 @@
+DECONFUND_C3_BENIGN_MARKER
+authorized CodeRabbit VDP research (DECONFUND lane head-config cell) — benign fixture, no secrets, no exploit code.
